@@ -2985,6 +2985,9 @@ figcaption {
   border-color: #d8cbb7;
   border-radius: 12px;
   background-color: #f9d9e1;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
 }
 
 .home-3-hero-box.top {
@@ -2995,8 +2998,6 @@ figcaption {
   border-width: 0px;
   background-color: #f9d9e1;
   background-image: url('../images/1_ujHgU2_W7H6_ML-8IQrB-g.jpeg');
-  background-position: 0px 0px;
-  background-size: auto;
   box-shadow: 6px 6px 19px 3px #000;
   background-clip: border-box;
   -webkit-text-fill-color: inherit;
@@ -3564,7 +3565,6 @@ figcaption {
   -ms-flex-align: center;
   align-items: center;
   border-radius: 8px;
-  background-color: #fff;
 }
 
 .home-3-integrations-card-image {
