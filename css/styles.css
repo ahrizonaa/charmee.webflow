@@ -56,3 +56,24 @@
     background-color: #333131;
     border: none;
 }
+
+.sideye {
+  background-image: url('../images/sideye.png') !important;
+  min-height: 480px;
+  height: auto;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-color: #333131;
+  border: none;
+}
+
+.duover {
+    min-height: 480px;
+    height: auto;
+    background-image: url('../images/duover.webp');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 110%;
+    background-color: #333131;
+    border: none;
+}
