@@ -45,3 +45,14 @@
 .dark-font {
   color: #ffffff;
 }
+
+.deskhop-box {
+    min-height: 480px;
+    height: auto;
+    background-image: url('../images/deskhop.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 110%;
+    background-color: #333131;
+    border: none;
+}
